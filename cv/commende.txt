@@ -1,6 +1,0 @@
-aside figure img 
-		
-		pour faire appel correctement à l'image. 
-
-
-main section h1
